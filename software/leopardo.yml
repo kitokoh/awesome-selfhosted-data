@@ -1,0 +1,11 @@
+name: Leopardo
+website_url: https://kitokoh.github.io/leopardo-hr
+description: Business suite for field-based companies with HR & payroll, biometric attendance, leave, scheduling, CRM and accounting, on web and mobile (multi-tenant).
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Human Resources Management (HRM)
+source_code_url: https://github.com/kitokoh/leopardo-hr
